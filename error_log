@@ -1,0 +1,4 @@
+[11-Mar-2022 13:37:37 UTC] PHP Warning:  require(/home/bookbiz/public_html/dev/core/vendor/autoload.php): failed to open stream: No such file or directory in /home/bookbiz/public_html/dev/index.php on line 24
+[11-Mar-2022 13:37:37 UTC] PHP Fatal error:  require(): Failed opening required '/home/bookbiz/public_html/dev/core/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bookbiz/public_html/dev/index.php on line 24
+[11-Mar-2022 13:38:16 UTC] PHP Warning:  require(/home/bookbiz/public_html/dev/core/vendor/autoload.php): failed to open stream: No such file or directory in /home/bookbiz/public_html/dev/index.php on line 24
+[11-Mar-2022 13:38:16 UTC] PHP Fatal error:  require(): Failed opening required '/home/bookbiz/public_html/dev/core/vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/bookbiz/public_html/dev/index.php on line 24
